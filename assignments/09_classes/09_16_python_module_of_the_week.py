@@ -1,0 +1,1 @@
+#The function capwords() capitalizes all words in a string
